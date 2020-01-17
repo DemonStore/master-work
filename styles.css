@@ -1,0 +1,13 @@
+.sobel {
+    width: 400px;
+    height: 225px;
+    margin: 10px;
+    border: 1px solid #eee;
+}
+
+#image {
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
